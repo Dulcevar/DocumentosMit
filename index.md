@@ -1,15 +1,11 @@
 ## Bienvenidos a la página de Dulce Vargas
 
-You can use the [editor on GitHub](https://github.com/Dulcevar/DocumentosMit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En esta sección podemos conocer el Centro Universitario de Tonalá
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mapa
 
-### Markdown
+https://goo.gl/maps/KrSQ6sX9Bqq1hHGC7 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
