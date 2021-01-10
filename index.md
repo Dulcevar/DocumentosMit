@@ -7,6 +7,6 @@ En esta sección podemos conocer el Centro Universitario de Tonalá
 https://goo.gl/maps/KrSQ6sX9Bqq1hHGC7 
 
 
-# Foto 1
+
 
 
